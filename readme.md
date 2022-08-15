@@ -5,7 +5,7 @@ updated: 31 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Axial Aerospace Ltd][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Kerbal Hacks Ltd][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
@@ -13,17 +13,17 @@ updated: 31 Jul 2022 -->
 
 # Kerbal Hacks Ltd (KH/L)
 
-*It's what we do*
+*Space.Just.Got.Hacked.*
 
-Adds Axial Aerospace Ltd. Agent, Flags, and common config files used in all Axial Aerospace's add-ons for Kerbal Space Program.
+Adds Kerbal Hacks Ltd. Agent, Flags, and common config files used in all Axial Aerospace's add-ons for Kerbal Space Program.
 
 
 
-## By [`zer0Kerbal`][zer0Kerbal], inspired by [`artwhaley`][artwhaley]
+## By [`zer0Kerbal`][zer0Kerbal], inspired by [`Enceos`][enceos]
 
  An original creation of *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/img/HeroLogo_1920x1920.png" alt="AxialAerospaceLtd Hero" width="72%" height="72%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/img/HeroLogo_1920x1920.png" alt="KerbalHacksLtd Hero" width="50%" height="50%">
 
 ### See More
 
@@ -36,13 +36,15 @@ Adds Axial Aerospace Ltd. Agent, Flags, and common config files used in all Axia
 
 ### Help Wanted
 
-> * Logo(s) for Axial Aerospace Ltd
+> * Logo(s) for Kerbal Hacks Ltd
+> * More lorem ipsum text for the Agency description
 > * Additiona flags
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ### Localization
 
 >* ![English][EN] English
+>* ![Dutch][NL] Dutch - thank you to @renejant (*bedankt!*)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -61,6 +63,8 @@ Adds Axial Aerospace Ltd. Agent, Flags, and common config files used in all Axia
 Whilst I agree CKAN is a great mod for those that can't use zip tools. I take no part, nor am I interested in maintaining the CKAN mod metadata for my mods.
 Please don't ask me about it but refer to the CKAN mod thread if you are having issues with CKAN or the metadata it maintains. Beware, CKAN *can* really mess up though it tries very, very, very hard not to.
 
+When I make a serious save / mod breaking change, CKAN will happily update you without you ever seeing a changelog. This means you could happily load your save, not notice the major version number has changed, and seriously break something. I do not like this. So CKAN users must use Kerbal Changelog, because that way nobody can say they weren't warned :).
+
 or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Dependencies
@@ -69,10 +73,18 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Suggests
 
-* [WhimChaser (WHIM)][WHIM]
-* [Dreamer (DREAM)][DREAM]
-* [Simple Cargo Solutions (CARGO)][CARGO]
-* [LanderTek (LTK)][LTEK]
+Also by Kerbal Hacks by [Enceos][enceos]
+
+* [Drop Tank Wrapper (DROP)][DROP]
+* [Portable Science Crate (PSC)][PRC]
+* [Simple Mission Flags (SMF)][SMF]
+* [Hazard Tanks Textures (HZT)][HZT]
+* [Ven's Style Textures (VST)][VST]
+* [Asphalt Tiles (AT)][AT]
+* [More Asphalt Tiles (AT)][MAT]
+* [Large Stock Fairings (LSF)][LSF]
+* [Animated Station Screens (ASS)][ASS]
+* [KIS Props (KISP)][KISP]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
@@ -81,9 +93,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
-
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ### Tags
 
@@ -100,7 +109,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Credits and Special Thanks
 
-* [artwhaley][artwhaley] for the inspiration to create this mod
+* [`Enceos`][enceos]  for the inspiration to create this mod
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -128,28 +137,28 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 *and it is true.*
 <!-- mod links -->
-[MOD:attr]: https://zer0kerbal.github.io/AxialAerospaceLtd/Attributions "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/changelog.md  "Changelog"
+[MOD:attr]: https://zer0kerbal.github.io/KerbalHacksLtd/Attributions "Attribution"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
-[MOD:discu]: https://github.com/zer0Kerbal/AxialAerospaceLtd/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "AxialAerospaceLtd Forum Thread"
-[MOD:issue]: https://github.com/zer0Kerbal/AxialAerospaceLtd/issues "Issues"
-[MOD:licns]: https://github.com/zer0Kerbal/AxialAerospaceLtd/blob/master/LICENSE "Github License"
-[MOD:markt]: https://zer0kerbal.github.io/AxialAerospaceLtd/Marketing "Marketing Slicks"
-[MOD:notic]: https://zer0kerbal.github.io/AxialAerospaceLtd/Notices "Notices"
-[MOD:parts]: https://zer0kerbal.github.io/AxialAerospaceLtd/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/AxialAerospaceLtd "GitHub Pages"
+[MOD:discu]: https://github.com/zer0Kerbal/KerbalHacksLtd/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/ "KerbalHacksLtd Forum Thread"
+[MOD:issue]: https://github.com/zer0Kerbal/KerbalHacksLtd/issues "Issues"
+[MOD:licns]: https://github.com/zer0Kerbal/KerbalHacksLtd/blob/master/LICENSE "Github License"
+[MOD:markt]: https://zer0kerbal.github.io/KerbalHacksLtd/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/KerbalHacksLtd/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/KerbalHacksLtd/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/KerbalHacksLtd "GitHub Pages"
 
 <!--- mod -->
-[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/mod.json
+[MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/code.json
+[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/json/code.json
 
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd "CurseForge"
-[MOD:0:source]: https://github.com/zer0Kerbal/AxialAerospaceLtd "GitHub"
+[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/KerbalHacksLtd "CurseForge"
+[MOD:0:source]: https://github.com/zer0Kerbal/KerbalHacksLtd "GitHub"
 [MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "KSP Forum"
 
 <!--- license provenance -->
@@ -159,22 +168,22 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 [LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPLv2"  
 [LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv2"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/license.json
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/json/license.json
 
 <!--- AVC -->
 [AVC:shd]: https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
-[AVCVLD:shd]: https://github.com/zer0Kerbal/AxialAerospaceLtd/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
+[AVCVLD:shd]: https://github.com/zer0Kerbal/KerbalHacksLtd/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid - thank you to DasSkelett"
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
-[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/ckan.json "CKAN"
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/json/ckan.json "CKAN"
 
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd "Curseforge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/KerbalHacksLtd "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[GITHUB:url]: https://github.com/zer0Kerbal/AxialAerospaceLtd/ "GitHub"
+[GITHUB:url]: https://github.com/zer0Kerbal/KerbalHacksLtd/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 [SPCDCK:url]: http://spacedock.info/mod/3076 "SpaceDock"
@@ -182,7 +191,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
-[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
+[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
@@ -192,11 +201,18 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
-[CARGO]: https://forum.kerbalspaceprogram.com/index.php?/topic/126402-/ "Simple Cargo Solutions (CARGO)"
-[DREAM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207306-*/ "Dreamer (DREAM)"
-[LTEK]: https://forum.kerbalspaceprogram.com/index.php?/topic/207923-*/ "LanderTek (LTK)"
-[WHIM]: https://forum.kerbalspaceprogram.com/index.php?/topic/204900-*/ "WhimChaser (WHIM)"
-[AAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "AxialAerospace Ltd. (AA/L)"
+[KHL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209352-*/ "Kerbal Hacks Ltd(KH/L)"
+[DROP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209332-*/  "Drop Tank Wrapper (DROP)"
+[PRC]: https://forum.kerbalspaceprogram.com/index.php?/topic/209350-*/ "Portable Science Container (PRC)"
+
+[ASS]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Animated Station Screens (ASS)"
+[AT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Asphalt Tiles (AT)"
+[HZT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Hazard Tanks Textures (HZT)"
+[KISP]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "KIS Props (KISP)"
+[LSF]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Large Stock Fairings (LSF)"
+[MAT]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "More Asphalt Tiles (AT)"
+[SMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Simple Mission Flags (SMF)"
+[VST]: https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/ "Ven's Style Textures (VST)"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
@@ -235,14 +251,14 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
-[artwhaley]: https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/ "artwhaley"
+[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos" 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 ---
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/AxialAerospaceLtd/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/KerbalHacksLtd/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
 
