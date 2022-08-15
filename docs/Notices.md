@@ -24,6 +24,7 @@ based upon work by LisiasT -->
 
 * "Kerbal Hacks" is trademark of Enceos
 * "Kerbal Hacks Ltd" is trademark of zer0Kerbal
+* "Space.Just.Got.Hacked." is trademark of zer0Kerbal
 * "KH/L" is trademark of zer0Kerbal
 * "KHL" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
