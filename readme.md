@@ -15,7 +15,7 @@ updated: 31 Jul 2022 -->
 
 *Space.Just.Got.Hacked.*
 
-Adds Kerbal Hacks Ltd. Agent, Flags, and common config files used in all Axial Aerospace's add-ons for Kerbal Space Program.
+Adds Kerbal Hacks Ltd. Agent, Flags, and common config files used in all Kerbal Hacks Ltd's add-ons for Kerbal Space Program.
 
 
 
