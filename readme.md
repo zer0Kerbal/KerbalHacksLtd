@@ -13,7 +13,7 @@ updated: 31 Jul 2022 -->
 
 # Kerbal Hacks Ltd (KH/L)
 
-*Space.Just.Got.Hacked.*
+*Space.Just.Got.Hacked.*™
 
 Adds Kerbal Hacks Ltd. Agent, Flags, and common config files used in all Kerbal Hacks Ltd's add-ons for Kerbal Space Program.
 
