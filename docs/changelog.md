@@ -18,10 +18,10 @@ CC BY-ND 4.0 by zer0Kerbal
 | license    | GPL-2.0                                                           |
 | author     | artwhaley and zer0Kerbal                                          |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/AxialAerospaceLtd)      |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)    |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/KerbalHacksLtd)      |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KerbalHacksLtd)    |
 | spacedock  | (https://spacedock.info/mod/3076)                                 |
-| ckan       | AxialAerospaceLtd                                                 |
+| ckan       | KerbalHacksLtd                                                 |
 
 ## Version 0.9.99.0-prerelease - `<On Final Approach>` edition
 
