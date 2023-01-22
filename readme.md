@@ -44,10 +44,11 @@ Agent, Flags, and common config files used in all [Kerbal Hacks Ltd's (KHL)][KHL
 ### Localization
 
 >* ![English][EN] English
->* ![Dutch][NL] Dutch - thank you to @renejant (*bedankt!*)
+>* ![Dutch][NL] Dutch - courtesy of [renejant](https://github.com/renejant) *bedankt!*
 >* ***your translation here***
 
 ### Installation Directions [^1]
+
 Use CurseForge/OverWolf Website/App
 
 <a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="80px"></a>
