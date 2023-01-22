@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 Kerbal Hacks Ltd (KH/L)
@@ -13,7 +12,7 @@ updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | Kerbal Hacks Ltd (KH/L)                                           |
+| modName    | Kerbal Hacks Ltd (KHL)                                            |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | Enceos and zer0Kerbal                                             |
@@ -23,6 +22,29 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3082)                                 |
 | ckan       | KerbalHacksLtd                                                    |
 
+## Version 1.0.0.0-release - `<Space.Just.Got.Hacked.™>` edition
+
+* Released
+  * 21 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.0.0
+
+* convert and adjust textures
+* adjust agent to remove log spam
+
+### Status
+
+* Issues
+  * closes #30 - Kerbal Hacks Ltd (KHL) 1.0.0.0-release `<Space.Just.Got.Hacked.™>`
+  * closes #31 - 1.0.0.0 Verify Legal Mumbo Jumbo
+  * closes #32 - 1.0.0.0 Update Documentation
+  * closes #33 - 1.0.0.0 Update Social Media
+  * updates #5 - Localization - Master
+
+---
+
 ## Version 0.9.99.0-prerelease - `<On Final Approach>` edition
 
 * 14 Aug 2022
@@ -30,7 +52,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ### Creation by zer0Kerbal
 
-### Add
+### Add 0.9.99.0
 
 * Flags
   * created by zer0Kerbal
@@ -39,7 +61,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * created by zer0Kerbal
   * closes #26 - Create Agency
 
-### Localization
+### Localization 0.9.99.0
 
 * Add
   * <en-us.cfg>
@@ -52,7 +74,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * closes #17 - Dutch (Nederlands) <nl-nl.cfg>
 * closes #26 - Localization - English
 
-### docs/
+### docs/ 0.9.99.0
 
 * Add
   * [`_config.yml`]
@@ -65,7 +87,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * [Why.md] v1.1.0.0
 * closes #24 - docs/
 
-### Status
+### Status 0.9.99.0
 
 * Issues
   * closes #1 - Kerbal Hacks Ltd (KHL) 0.9.99.0-prerelease `<On Final Approach>`
@@ -74,3 +96,4 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #4 - 0.9.99.0 Update Social Media
 
 ---
+
