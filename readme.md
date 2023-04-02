@@ -128,7 +128,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 ### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 > ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
-> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
+> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px" alt="cybutek" > cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
