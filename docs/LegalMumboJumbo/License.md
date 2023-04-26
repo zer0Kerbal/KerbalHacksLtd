@@ -5,7 +5,7 @@ title: License - GPL-2.0
 
 <!--
 GPL-2.0.md v1.0.1.0
-Kerbal Hacks Ltd (KH/L)
+Kerbal Hacks Ltd (KHL)
 created: 23 Mar 2022
 updated: 04 Aug 2022
 -->

@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.1
-Kerbal Hacks Ltd (KH/L)
+Kerbal Hacks Ltd (KHL)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +15,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Kerbal Hacks Ltd (KH/L)
+# Kerbal Hacks Ltd (KHL)
 
 [Home](./index.md)
 
@@ -43,7 +43,7 @@ updated: 03 Jun 2022
 ### Special Thanks
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/"><img border="0" alt="artwhaley" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > artwhaley</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Kerbal Hacks Ltd (KH/L)"> the Axial Aerospace series of parts addons which inspired this addon!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/118388-*/"><img border="0" alt="artwhaley" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50" height="50" > artwhaley</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Kerbal Hacks Ltd (KHL)"> the Axial Aerospace series of parts addons which inspired this addon!</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
