@@ -10,6 +10,26 @@
 | spacedock  | (https://spacedock.info/mod/3082)                                 |
 | ckan       | KerbalHacksLtd                                                    |
 
+## Version 1.0.1.0-release - `<Space.Just.Got.Hacked.™>` edition
+
+* Released
+  * 25 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 1.0.1.0
+
+* Add textures and models from Drop Tanks in antipation of release of Drop Tanks III
+* Update
+  * en-us.cfg v1.0.1.0
+  * nl-nl.cfg v1.0.1.0
+
+* Issues
+  * closes #35 - Kerbal Hacks Ltd (KHL) 1.0.1.0-release `<Space.Just.Got.Hacked.™>` edition
+  * closes #36 - 1.0.1.0 Additional Tasks
+
+---
+
 ## Version 1.0.0.0-release - `<Space.Just.Got.Hacked.™>` edition
 
 * Released
