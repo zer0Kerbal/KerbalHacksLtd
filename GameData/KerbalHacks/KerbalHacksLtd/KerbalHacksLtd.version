@@ -24,7 +24,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :	  "KerbalHacksLtd",
+		"NAME" 		: "KerbalHacksLtd",
 		"DIRECTORY" : "KerbalHacks/KerbalHacksLtd"
 	}
 }
