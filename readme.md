@@ -1,22 +1,23 @@
-<!-- readme.md v1.7.0.1
-Kerbal Hacks Ltd (KH/L)
+<!-- readme.md v1.0.1.0
+Kerbal Hacks Ltd (KHL)
+created: 13 Aug 2022
+updated: 25 Apr 2023
+
+TEMPLATE: readme.md v1.7.2.1
 created: 17 Jul 2017
-updated: 31 Jul 2022 -->
+updated: 15 Apr 2023
 
-<!--THIS FILE: CC BY-ND 4.0 by zer0Kerbal-->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![Kerbal Hacks Ltd (KHL)][MOD:shd]][forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
-[![Pages][pages:shd]][pages]
+[![Kerbal Hacks Ltd (KHL)][SHD:mod]][CURSFG:url]  
+[![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-
-
-# Kerbal Hacks Ltd (KH/L)
+# [Kerbal Hacks Limited (KHL)][KHL]
 
 *Space.Just.Got.Hacked.*™
 
 Agent, Flags, and common config files used in all [Kerbal Hacks Ltd's (KHL)][KHL] add-ons for Kerbal Space Program.
-
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], inspired by [`Enceos`][enceos]
@@ -28,16 +29,15 @@ Agent, Flags, and common config files used in all [Kerbal Hacks Ltd's (KHL)][KHL
 ### See More
 
 >* [ChangeLog][chlog] for more details of changes
->* [Discussions][discu] or [KSP Forums][forum] for discussions and news
+>* [Discussions][discu] or [forums][forum] for discussions and news
 >* [GitHub Pages][pages]
 >* [Known Issues][issue] for more details of feature requests and known issues
 
 ### Help Wanted
 
 > * Logo(s) for Kerbal Hacks Ltd
-> * More lorem ipsum text for the Agency description, rich description
-> * Additional flags
-> * Marketing Images and Videos such as hero shots, animated gifs, short highlights
+> * Replace lorem ipsum text for the Agency description, rich description
+> * Additional flags, marketing images and videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
@@ -144,9 +144,9 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 [pages]: https://zer0kerbal.github.io/KerbalHacksLtd "GitHub Pages"
 
 <!--- shields -->
-[MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/json/mod.json
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/json/mod.json
 
-[pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- license provenance -->
 [LIC:url]: https://www.gnu.org/licenses/gpl-2.0-standalone.html "GPL-2.0"  
