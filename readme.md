@@ -20,9 +20,9 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 Agent, Flags, and common config files used in all [Kerbal Hacks Ltd's (KHL)][KHL] add-ons for Kerbal Space Program.
 
 
-## By [`zer0Kerbal`][zer0Kerbal], inspired by [`Enceos`][enceos]
+## By [`zer0Kerbal`][zer0Kerbal], inspired by [`Enceos`][Enceos]
 
- An original creation of *KerbSimpleCo*
+An original creation of *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/KerbalHacksLtd/master/img/HeroLogo_1920x1920.png" alt="KerbalHacksLtd Hero" width="50%" height="50%">
 
@@ -59,7 +59,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Suggests
 
-* by [Kerbal Hacks][KHL] by [Enceos][enceos]
+* by [Kerbal Hacks][KHL] by [Enceos][Enceos]
   * [Drop Tank Wrapper (DROP)][DROP]
   * [Drop Tanks III (DIII)][DROPIII]
   * [Portable Science Crate (PSC)][PRC]
@@ -104,7 +104,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Credits and Special Thanks
 
-* [`Enceos`][enceos] for the inspiration to create this addon
+* [`Enceos`][Enceos] for the inspiration to create this addon
 * see [Attributions][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -214,7 +214,7 @@ Comment, click, like, share, up-vote, subscribe
 [steam]: https://steamcommunity.com/id/zeroKerbal
 [projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
 
-[enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos" 
+[Enceos]: https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/ "Enceos" 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 #### Connect with me
